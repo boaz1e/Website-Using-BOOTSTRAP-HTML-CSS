@@ -1,4 +1,7 @@
-# Responsive Website Design Using BOOTSTRAP & HTML & CSS
+# 
+Made a resposive website using HTML, CSS and Bootstrap.
+To run the website, just download the files and open "index.html" using any browser. This is only the page without any functionality. 
+This project taught me a lot about  container, paddings and margins.
 Link- https://boaz1e.github.io/Website-Using-BOOTSTRAP-HTML-CSS/
 
 
